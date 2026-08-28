@@ -1,0 +1,6 @@
+{
+  "name": "Anjo da Guarda | Farol",
+  "description": "Plataforma integrada de saúde mental ocupacional, autocuidado, check-in psicossocial conforme NR-01/LGPD e agendamento de psicoterapia com navegação entre todas as telas e galeria com links diretos das imagens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
